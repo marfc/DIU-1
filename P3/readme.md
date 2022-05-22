@@ -42,7 +42,7 @@ usarse el icono sin el texto, y que el usuario lo siga identificando con el host
 
 Para realizar este logotipo hemos usado la herramienta [Canva](https://www.canva.com/es_es/crear/logos/)
 
-#### Paleta de colores
+### Paleta de colores
 
 Elegimos una paleta basada en los colores de hostel 4U, y le hemos añadido tonos más vivos como el rojo para llamar la atención del usuario. La paleta final quedaría así:
 
