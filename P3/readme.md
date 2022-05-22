@@ -10,7 +10,7 @@ En cada apartado iremos desarrollando cada parte del proceso de diseño de la gu
 
 Para realizar un moodboard con las ideas principales, usamos la herramienta [Milanote](https://milanote.com/) 
 
-![imagen](https://user-images.githubusercontent.com/75501666/169692745-0ad946f5-d6c3-4132-a4e4-430ac38fe9b8.png)
+![imagen](https://user-images.githubusercontent.com/75501666/169692780-52612907-ac9f-4796-8735-71f8c3d0c232.png)
 
 ## Landing Page
 
