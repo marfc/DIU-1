@@ -8,7 +8,7 @@ En cada apartado iremos desarrollando cada parte del proceso de diseño de la gu
 
 ## Moodboard (diseño visual + logotipo)   
 
-Para realizar un moodboard con las ideas principales, usamos la herramienta ###Milanote 
+Para realizar un moodboard con las ideas principales, usamos la herramienta Milanote 
 ## Landing Page
 
 
