@@ -71,7 +71,32 @@ Las fuentes las hemos sacado de [Google Fonts](https://fonts.google.com/), y se 
 
 ## Mockup: LAYOUT HI-FI
 
+Para hacer un layout de nuestra página hemos usado la herramienta [Protopie](https://www.protopie.io/). Primero, hemos realizado un layout de cómo se vería la
+página principal, mostrando un collage a la derecha de fotografías de cada parte que se ofrece en la guía, y a la izquierda una frase captadora, con un botón CTA que invita al usuario a visitar el resto de la guía. 
 
+Basándonos en hacer una vista real de lo que pensamos en el boceto del Landing Page, nos ha quedado esto:
+
+![imagen](https://user-images.githubusercontent.com/75501666/169693534-3f1628e6-ff48-4909-a672-b70ed4c93660.png)
+
+Para hacer una idea más específica de la web, hicimos otro layout de lo que se muestra cuando un usuario pulsa el CTA. Concretamente, se ve un menú superior
+con cuatro botones que indican cada apartado que ofrece la guía, y un menú lateral que muestra las diferentes opciones dentro de cada apartado.
+
+En la parte central se muestra la información de la opción que el usuario indique con alguna fotografía, y se puede hacer scroll para visualizar correctamente
+la página.
+
+![imagen](https://user-images.githubusercontent.com/75501666/169693696-b466386d-56ff-4708-8437-8b317256cb3a.png)
+
+Para ver una versión más interactiva (botón CTA pulsable y posibilidad de hacer scroll), click [aquí](https://cloud.protopie.io/p/8d569bac21)
+
+También tuvimos en cuenta la versión móvil del hostel, e hicimos un Layout similar al de la web. La página principal se ve así:
+
+![imagen](https://user-images.githubusercontent.com/75501666/169693777-5f20feb2-db9e-4d4e-a43b-c3f463004b10.png)
+
+Y la página que se muestra tras pulsar el botón:
+
+![imagen](https://user-images.githubusercontent.com/75501666/169693796-3fb5c9a0-b836-4bdd-8075-e343dc9d9703.png)
+
+Para ver una versión más interactiva de la versión móvil, click [aquí](https://cloud.protopie.io/p/d63fdc7956)
 
 ## Documentación: Publicación del Case Study
 
