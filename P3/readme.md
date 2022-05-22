@@ -32,7 +32,7 @@ Y otro para que se vea el cambio al pulsar otra opción de la guía:
 
 En este apartado vamos a desarrollar cada parte del diseño de la web.
 
-###### Logotipo
+### Logotipo
 
 Nuestro logotipo final se basa en el logotipo original de 4UHostel, con la idea de que el usuario relacione la guía turística directamente con el hostel.
 Hemos pensado en un icono que representa tanto al hostel como a la idea de vacaciones, por lo que se puede ver un edificio rodeado de palmeras y sol. Podría
@@ -50,7 +50,7 @@ Elegimos una paleta basada en los colores de hostel 4U, y le hemos añadido tono
 
 La herramienta que hemos usado para hacer la paleta de colores ha sido [Adobe Color](https://color.adobe.com/es/create/color-wheel)
 
-###### Iconografía
+### Iconografía
 
 Nos vamos a basar en los iconos de la página [Flaticon](https://www.flaticon.es/uicons), porque son minimalistas y le pueden dar un aire de sencillez a la
 página.
@@ -59,7 +59,7 @@ Algunos ejemplos de iconos son:
 
 ![imagen](https://user-images.githubusercontent.com/75501666/169693367-5026e178-e471-4f77-9171-48d9011c7885.png)
 
-###### Tipografía
+### Tipografía
 
 Hemos escogido dos tipografías, una para los títulos, y otra para el texto normal.
 
