@@ -100,6 +100,13 @@ Para ver una versión más interactiva de la versión móvil, click [aquí](http
 
 ## Documentación: Publicación del Case Study
 
+Una vez terminada esta práctica, pensamos que de todas, ha sido la más compleja, ya que es la que nos ha tomado más tiempo, y en la que hemos tenido que 
+realizar más decisiones para el diseño.
 
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+Hemos podido aprender que hacer un sitio web no es solo la parte programada, si no que el diseño es prácticamente igual de importante, ya que es lo que va a 
+estar en contacto directo con el usuario, y hemos conocido muchas herramientas, las cuales no habíamos usado antes. Además, ha sido muy interesante el recoger
+la información de diseño de una página ya existente (la página del [4UHostel](https://www.4uhostel.com/)) y añadir algo de nuestra parte para darle un toque
+personal sin salirnos del trabajo ya realizado por otros diseñadores. 
+
+Finalmente, pensamos que esta práctica, aunque haya sido la que ha tenido más carga de trabajo, ha sido la más importante de la asignatura.
  
