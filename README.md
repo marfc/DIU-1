@@ -271,8 +271,10 @@ Finalmente, pensamos que esta práctica, aunque haya sido la que ha tenido más 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+4U Rutas del grupo DS3_12DobleAI. [Enlace a su propuesta](https://github.com/adelatorresaavedra/DIU)
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+El sitio web ofrece una plataforma de parte del 4UHostel en la que se organizan rutas temáticas por Granada, tanto culturales como gastronómicas o mixtas, aunque el sitio se 
+centra más en la parte cultural de la ciudad, en rutas para conocer los monumentos más importantes.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -283,9 +285,9 @@ Finalmente, pensamos que esta práctica, aunque haya sido la que ha tenido más 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
+| María José    | M / 56   | Ama de casa | Baja        | Emocional    | Móvil.     | A 
+| Laura Fernández | M / 25   | Estudiante  | Media alta   | Racional       | Web        | B 
+| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | A
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
