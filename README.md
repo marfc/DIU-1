@@ -288,7 +288,7 @@ centra más en la parte cultural de la ciudad, en rutas para conocer los monumen
 | María José    | M / 56   | Ama de casa | Baja        | Emocional    | Móvil.     | A 
 | Laura Fernández | M / 25   | Estudiante  | Media alta   | Racional       | Web        | B 
 | Concepción  | M / 54   | Limpiadora     | Baja        | Tímida    | Tablet      | A
-| Chiara  | H / 20   | Ninguna  | Alta       | Extrovertida     | Móvil        | B 
+| Chiara  | M / 20   | Ninguna  | Alta       | Extrovertida     | Móvil        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
