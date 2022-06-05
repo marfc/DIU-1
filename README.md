@@ -300,6 +300,12 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
+[Enlace al Cuestionario SUS](https://github.com/marfc/DIU22/blob/master/P4/Cuestionario%20SUS%20DIU.ods)
+
+Las valoraciones de cada usuario para el cuestionario SUS han sido estas:
+
+![imagen](https://user-images.githubusercontent.com/75501666/172054680-24ddb3ee-b3a5-4a71-b705-f582b6065b56.png)
+
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
