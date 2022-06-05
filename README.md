@@ -310,11 +310,9 @@ Las valoraciones de cada usuario para el cuestionario SUS han sido estas:
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+El Usability Report se encuentra [aquí](https://github.com/marfc/DIU22/blob/master/P4/DIU_report-template-usability-testOK.pdf)
 
-
-
->>> Valoración personal 
+[DIU_report-template-usability-testOK.pdf](https://github.com/marfc/DIU22/files/8840288/DIU_report-template-usability-testOK.pdf)
 
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
