@@ -285,8 +285,8 @@ centra más en la parte cultural de la ciudad, en rutas para conocer los monumen
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| María José    | M / 56   | Ama de casa | Baja        | Emocional    | Móvil.     | A 
-| Laura Fernández | M / 25   | Estudiante  | Media alta   | Racional       | Web        | B 
+| María José    | M / 56   | Limpiadora | Baja        | Emocional    | Móvil     | A 
+| Laura | M / 25   | Profesora de biología  | Media alta   | Racional       | Web        | B 
 | Concepción  | M / 54   | Limpiadora     | Baja        | Tímida    | Tablet      | B
 | Chiara  | M / 20   | Ninguna  | Alta       | Extrovertida     | Móvil        | A
 
